@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PantryBoard.System/PantryBoard.System.csproj" />
+  <Project Path="PantryBoard.Web/PantryBoard.Web.csproj" />
+</Solution>
